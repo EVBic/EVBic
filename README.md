@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Maria Eva Bichi
-- 👀 I’m interested in Sentiment analysis, Data understanding, Data engineering, Chatbot and many more
-- 🌱 I’m currently learning Data Science
-- 📫 Reach me at bichimeva@gmail.com 
+- Hi, I’m Maria Eva Bichi
+- I’m passionate about data analytics, particularly in the context of Power BI. My interests span across Sentiment Analysis, Data Understanding, and Data Engineering. I’m also intrigued by the development and functionality of Chatbots, among other things.
+- I’m currently learning Data Science
+- Reach me at bichimeva@gmail.com 
 
 
 <h3> 🛠 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h3>
@@ -22,7 +22,6 @@
   ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=bigquery)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![ApacheCassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apache-cassandra&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 - 🔧 &nbsp;
