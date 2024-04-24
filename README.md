@@ -56,7 +56,7 @@
 
 <p align="center">
 <h3> 🤝🏻 &nbsp;Me encuentro en </h3>
-<a href="https://www.linkedin.com/in/maría-eva-bichi-264443203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/maria-eva-bichi-264443203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
 </p>
 <!---
